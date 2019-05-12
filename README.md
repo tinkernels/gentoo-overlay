@@ -1,2 +1,1 @@
-# gentoo-zigford
-Personal Overlay repository
+# Personal Overlay repository
